@@ -4,7 +4,7 @@
   <a href="https://github.com/GustavodspHub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavodspHub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavodspHub&layout=compact&langs_count=16&theme=tokyonight"/>
-  <img height="360em" src= "https://www.appstudio.ca/blog/wp-content/uploads/2020/11/programming-language-is-in-demand-in-Canada.jpg"/>
+  <img height="360em" style="display: flex"src= "https://www.appstudio.ca/blog/wp-content/uploads/2020/11/programming-language-is-in-demand-in-Canada.jpg"/>
   
 </div>
 
