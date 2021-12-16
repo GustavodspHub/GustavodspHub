@@ -1,9 +1,9 @@
 ### Hi, My name is Gustavo! I'm looking to become one of the best developers in the world!
 
-🌎 - Objetivo - Estou em busca do meu primeiro trabalho na área de desenvolvimento e procuro me tornar um dos melhores desenvolvedores que o Brasil ja teve. <br>
-💻 - Atualmente estou focado em meus estudos em Java. <br>
-📚 - Estou cursando o 1º semestre de Ciência da computação na Anhembi Morumbi. <br>
-📚 - Estou cursando o 3° semestre de técnico em Desenvolvimento de Sistemas no SENAI - Jandira
+🌎 - Objetivo - Procuro me tornar um dos melhores desenvolvedores que o Brasil ja teve. <br>
+💻 - Atualmente estou focado em meus estudos em JavaScript, TypeScript, NodeJs e Knex. <br>
+📚 - Formado como Técnico em Desenvolvimento de Sistemas -  SENAI Jandira
+📚 - Estou cursando o 2º semestre de Ciência da computação na Anhembi Morumbi. <br>
 
 ### 
 
