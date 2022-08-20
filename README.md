@@ -1,11 +1,30 @@
-### Hi, My name is Gustavo! I'm looking to become one of the best developers in the world!
+###  &nbsp;Olá, eu sou o Gustavo. 👋🏻
 
-🌎 - Objetivo - Procuro me tornar um dos melhores desenvolvedores que o Brasil ja teve. <br>
-💻 - Atualmente estou focado em meus estudos em JavaScript, TypeScript, NodeJs e Knex. <br>
-📚 - Formado como Técnico em Desenvolvimento de Sistemas -  SENAI Jandira
-📚 - Estou cursando o 2º semestre de Ciência da computação na Anhembi Morumbi. <br>
+##
 
-### 
+###  &nbsp;Sobre mim 👦🏻
+
+🖥️ - Desenvolvedor Back-end - [Pagtel](https://www.pagtel.com.br/home). <br>
+📚 - Formado como Técnico em Desenvolvimento de Sistemas -  [Senai Jandira](https://jandira.sp.senai.br/curso/85566/127/tecnico-de-desenvolvimento-de-sistemas). <br>
+📚 - 3º semestre em Ciência da computação - [Anhembi Morumbi](https://portal.anhembi.br/graduacao/ciencia-da-computacao/). <br>
+
+##
+
+###  &nbsp;Tech Stack 🛠
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![SqlServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=whit)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=whit)
+![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+##
 
 <div>
   <a href="https://github.com/GustavodspHub">
@@ -13,24 +32,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavodspHub&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Gustavo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Gustavo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gustavo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Gustavo-Brazil" src="https://media.giphy.com/media/bIqdxoOVJ2oak/giphy.gif">
-</div>
-  
-   ##
-  
-  <div> 
-  <a href="https://www.instagram.com/gustadsp_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "gustavopereira0979@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-pereira-b16697172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.facebook.com/profile.php?id=100009004121711" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-   <a href="https://twitter.com/Gustavo_3103" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-   
+##
+
+###  &nbsp;Contato 📌
+
+<a href="https://www.linkedin.com/in/gustavodsp-/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-007ACC?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/gustavodsp-/"/>
+  </a>
  
 </div>
