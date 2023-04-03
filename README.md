@@ -6,7 +6,7 @@
 
 🖥️ - Desenvolvedor Back-end - [Pagtel](https://www.pagtel.com.br/home). <br>
 📚 - Formado como Técnico em Desenvolvimento de Sistemas -  [Senai Jandira](https://jandira.sp.senai.br/curso/85566/127/tecnico-de-desenvolvimento-de-sistemas). <br>
-📚 - 3º semestre em Ciência da computação - [Anhembi Morumbi](https://portal.anhembi.br/graduacao/ciencia-da-computacao/). <br>
+📚 - 4º semestre em Ciência da computação - [Anhembi Morumbi](https://portal.anhembi.br/graduacao/ciencia-da-computacao/). <br>
 
 ##
 
